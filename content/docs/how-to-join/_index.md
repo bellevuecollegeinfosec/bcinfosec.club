@@ -1,11 +1,11 @@
 ---
-title: "Resources"
+title: "How to Join"
 description: ""
 summary: ""
-date: 2024-02-27T09:30:56+01:00
-lastmod: 2024-02-27T09:30:56+01:00
+date: 2023-09-07T16:12:03+02:00
+lastmod: 2023-09-07T16:12:03+02:00
 draft: false
-weight: 999
+weight: 700
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,5 +13,3 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-
-Link to valuable, relevant resources.

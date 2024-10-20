@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to Join on BC InfoSec Club</title>
+    <link>http://localhost:1313/docs/how-to-join/</link>
+    <description>Recent content in How to Join on BC InfoSec Club</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:33:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/how-to-join/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Join InfoSec Club!</title>
+      <link>http://localhost:1313/docs/how-to-join/how-to-join-infosec-club/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/docs/how-to-join/how-to-join-infosec-club/</guid>
+      <description>TODO: write instructions on how to join the InfoSec Club</description>
+    </item>
+  </channel>
+</rss>

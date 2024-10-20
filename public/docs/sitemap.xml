@@ -2,34 +2,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/docs/guides/</loc>
-      <lastmod>2023-09-07T16:06:50+02:00</lastmod>
+      <loc>http://localhost:1313/docs/about-us/</loc>
+      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/reference/</loc>
-      <lastmod>2023-09-07T16:12:37+02:00</lastmod>
+      <loc>http://localhost:1313/docs/how-to-join/</loc>
+      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/resources/</loc>
-      <lastmod>2024-02-27T09:30:56+01:00</lastmod>
+      <loc>http://localhost:1313/docs/people/</loc>
+      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/docs/guides/example-guide/</loc>
-        <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+        <loc>http://localhost:1313/docs/about-us/about-infosec-club/</loc>
+        <lastmod>2023-09-07T16:12:03+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/reference/example-reference/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <loc>http://localhost:1313/docs/how-to-join/how-to-join-infosec-club/</loc>
+        <lastmod>2023-09-07T16:33:54+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://localhost:1313/docs/people/people/</loc>
+        <lastmod>2023-09-07T16:12:03+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>

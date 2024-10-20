@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on BC InfoSec Club</title>
+    <link>http://localhost:1313/docs/people/</link>
+    <description>Recent content in People on BC InfoSec Club</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:12:03 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/docs/people/people/</link>
+      <pubDate>Thu, 07 Sep 2023 16:12:03 +0200</pubDate>
+      <guid>http://localhost:1313/docs/people/people/</guid>
+      <description>TODO: create a list of people involved in club leadership. Include advisors as well!&#xA;Leadership Previous Leadership Advisors </description>
+    </item>
+  </channel>
+</rss>

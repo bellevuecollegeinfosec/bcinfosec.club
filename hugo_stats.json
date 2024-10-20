@@ -115,6 +115,7 @@
       "icon-tabler",
       "icon-tabler-arrow-left",
       "icon-tabler-arrow-right",
+      "icon-tabler-brand-discord",
       "icon-tabler-brand-github",
       "icon-tabler-clock",
       "icon-tabler-dots-vertical",
@@ -158,6 +159,7 @@
       "mt-n3",
       "mx-2",
       "mx-auto",
+      "mx-xl-auto",
       "my-3",
       "nav",
       "nav-item",
@@ -226,13 +228,16 @@
     ],
     "ids": [
       "TableOfContents",
+      "advisors",
       "buttonColorMode",
       "doks-docs-nav",
       "further-reading",
+      "leadership",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
       "offcanvasNavSectionLabel",
+      "previous-leadership",
       "query",
       "search-form",
       "searchModal",
@@ -241,7 +246,11 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
-      "toc"
+      "stay-connected",
+      "toc",
+      "welcome-to-bellevue-colleges-infosec-club",
+      "who-can-join",
+      "why-join-us"
     ]
   }
 }

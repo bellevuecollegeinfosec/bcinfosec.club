@@ -23,7 +23,7 @@ npm install
 To run the website locally:
 
 ```bash
-npm start
+npm run dev
 ```
 This command will start the development server at `http://localhost:1313`.
 

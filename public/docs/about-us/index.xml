@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on BC InfoSec Club</title>
+    <link>http://localhost:1313/docs/about-us/</link>
+    <description>Recent content in About Us on BC InfoSec Club</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:12:03 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About InfoSec Club</title>
+      <link>http://localhost:1313/docs/about-us/about-infosec-club/</link>
+      <pubDate>Thu, 07 Sep 2023 16:12:03 +0200</pubDate>
+      <guid>http://localhost:1313/docs/about-us/about-infosec-club/</guid>
+      <description>TODO: Write about what InfoSec Club is and what it&amp;rsquo;s about!&#xA;Welcome to Bellevue College&amp;rsquo;s InfoSec Club! Our mission is to empower students to develop skills in cybersecurity through hands-on learning, collaboration, and community engagement.</description>
+    </item>
+  </channel>
+</rss>
