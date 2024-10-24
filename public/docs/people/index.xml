@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 07 Sep 2023 16:12:03 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>People</title>
-      <link>http://localhost:1313/docs/people/people/</link>
+      <title>InfoSec Leadership &amp; Advisors</title>
+      <link>http://localhost:1313/docs/people/infosec-leadership-advisors/</link>
       <pubDate>Thu, 07 Sep 2023 16:12:03 +0200</pubDate>
-      <guid>http://localhost:1313/docs/people/people/</guid>
+      <guid>http://localhost:1313/docs/people/infosec-leadership-advisors/</guid>
       <description>TODO: create a list of people involved in club leadership. Include advisors as well!&#xA;Leadership Previous Leadership Advisors </description>
     </item>
   </channel>
