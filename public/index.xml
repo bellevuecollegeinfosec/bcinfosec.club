@@ -44,5 +44,19 @@
       <guid>http://localhost:1313/privacy/</guid>
       <description></description>
     </item>
+    <item>
+      <title>About InfoSec Internal Resources</title>
+      <link>http://localhost:1313/docs/internal-resources/about-infosec-internal-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/internal-resources/about-infosec-internal-resources/</guid>
+      <description>What is InfoSec Club&amp;rsquo;s Internal Resources? InfoSec club has two DELL R620 servers running on PROXMOX (A hypervisor OS), off of these we host CTFs, Wikis, docker sandboxes, and vulnerable machines to attack.</description>
+    </item>
+    <item>
+      <title>How to Get Access to InfoSec Internal Resources</title>
+      <link>http://localhost:1313/docs/internal-resources/how-to-get-access-to-infosec-internal-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/internal-resources/how-to-get-access-to-infosec-internal-resources/</guid>
+      <description>Note&#xA;To even begin accessing internal resources you must be added to the Bellevue College InfoSec SSO list, if you are not added, you can request to be added by filling out this form or by attending a meeting in-person.</description>
+    </item>
   </channel>
 </rss>
