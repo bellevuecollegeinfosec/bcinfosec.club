@@ -19,7 +19,8 @@ TODO: Write about what InfoSec Club is and what it's about!
 ## Welcome to Bellevue College's InfoSec Club!
 
 Our mission is to empower students to develop skills in cybersecurity through hands-on learning, collaboration, and community engagement. Whether you're new to cybersecurity or an experienced professional, our club offers opportunities for everyone to grow, learn, and share knowledge.
-What We Do
+
+## What We Do
 
 We host a variety of activities to help students enhance their cybersecurity knowledge, including:
 

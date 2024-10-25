@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>InfoSec Internal Resources on BC InfoSec Club</title>
+    <title>InfoSec Internal Resources on BC InfoSec</title>
     <link>http://localhost:1313/docs/internal-resources/</link>
-    <description>Recent content in InfoSec Internal Resources on BC InfoSec Club</description>
+    <description>Recent content in InfoSec Internal Resources on BC InfoSec</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/docs/internal-resources/about-infosec-internal-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/internal-resources/about-infosec-internal-resources/</guid>
-      <description>What is InfoSec Club&amp;rsquo;s Internal Resources? InfoSec club has two DELL R620 servers running on PROXMOX (A hypervisor OS), off of these we host CTFs, Wikis, docker sandboxes, and vulnerable machines to attack.</description>
+      <description>What are InfoSec Club&amp;rsquo;s Internal Resources? InfoSec club has two DELL R620 servers running on PROXMOX (A hypervisor OS), off of these we host CTFs, Wikis, docker sandboxes, and vulnerable machines to attack.</description>
     </item>
     <item>
       <title>How to Get Access to InfoSec Internal Resources</title>

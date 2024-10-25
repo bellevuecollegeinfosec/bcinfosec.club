@@ -180,6 +180,16 @@
   --ec-frm-tooltipSuccessBg: #158744;
   --ec-frm-tooltipSuccessFg: white; }
 
+.header-bar {
+  border-top: 8px solid;
+  border-image-source: linear-gradient(83.21deg, var(--sl-color-accent) 0%, var(--sl-color-green) 100%) 8;
+  border-image-slice: 1; }
+
+[data-bs-theme="dark"] .header-bar {
+  border-top: 4px solid;
+  border-image-source: linear-gradient(83.21deg, var(--sl-color-accent) 0%, var(--sl-color-green) 100%);
+  border-image-slice: 1; }
+
 :root,
 ::backdrop {
   --sl-color-accent-high: #0163c5; }
@@ -14464,14 +14474,5 @@ body {
   background-color: {{ site.Params.doks.backGround }};
 }
 */
-.header-bar {
-  border-top: 8px solid;
-  border-image-source: linear-gradient(83.21deg, #003c78 0%, #0163c5 100%);
-  border-image-slice: 1; }
-
-[data-bs-theme="dark"] .header-bar {
-  border-top: 8px solid;
-  border-image-source: linear-gradient(83.21deg, #003c78 0%, #0163c5 100%);
-  border-image-slice: 1; }
 
 /*# sourceMappingURL=main.css.map */

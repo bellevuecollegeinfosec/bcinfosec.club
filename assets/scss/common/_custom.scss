@@ -1,1 +1,15 @@
 // Put your custom SCSS code here
+
+.header-bar {
+  border-top: 8px solid;
+  border-image-source: linear-gradient(83.21deg, #003c78 0%, #0163c5 100%);
+  border-image-slice: 1;
+}
+
+@include color-mode(dark) {
+  .header-bar {
+      border-top: 8px solid;
+      border-image-source: linear-gradient(83.21deg, #003c78 0%, #0163c5 100%);
+      border-image-slice: 1;
+  }
+}

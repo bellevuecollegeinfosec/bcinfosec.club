@@ -14466,12 +14466,12 @@ body {
 */
 .header-bar {
   border-top: 8px solid;
-  border-image-source: linear-gradient(83.21deg, #003c78 0%, #0163c5 100%);
+  border-image-source: linear-gradient(83.21deg, var(--sl-color-accent) 0%, var(--sl-color-green) 100%) 8;
   border-image-slice: 1; }
 
 [data-bs-theme="dark"] .header-bar {
-  border-top: 8px solid;
-  border-image-source: linear-gradient(83.21deg, #003c78 0%, #0163c5 100%);
+  border-top: 4px solid;
+  border-image-source: linear-gradient(83.21deg, var(--sl-color-accent) 0%, var(--sl-color-green) 100%);
   border-image-slice: 1; }
 
 /*# sourceMappingURL=main.css.map */

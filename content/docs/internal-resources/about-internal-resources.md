@@ -2,7 +2,7 @@
 title: "About InfoSec Internal Resources"
 ---
 
-# What is InfoSec Club's Internal Resources?
+# What are InfoSec Club's Internal Resources?
 
 InfoSec club has two DELL R620 servers running on PROXMOX (A hypervisor OS), off of these we host CTFs, Wikis, docker sandboxes, and vulnerable machines to attack.
 
