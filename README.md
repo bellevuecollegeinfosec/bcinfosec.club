@@ -2,20 +2,24 @@
 
 Welcome to the repository for [Bellevue College InfoSec Club](https://bcinfosec.club), built with the [Doks](https://getdoks.org/) framework.
 
-## Features
+## ✅ TODO List!
+
+
+
+## ⚙ Features
 
 - **Doks Framework**: A fast, modern, and fully customizable framework for documentation websites.
 - **Responsive Design**: Fully responsive for all devices.
 - **Easy Customization**: Modify layouts, colors, and content with ease.
 - **SEO-Optimized**: Built-in SEO best practices for better search engine rankings.
 
-## Installation
+## ⏬ Installation
 
 To get started, clone this repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/bellevuecollegeinfosec/bcinfosec.club.git
+cd bcinfosec-club
 npm install
 ```
 ## Development
