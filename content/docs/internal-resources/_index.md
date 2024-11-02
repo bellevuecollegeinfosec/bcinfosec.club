@@ -1,3 +1,0 @@
----
-title: "InfoSec Internal Resources"
----

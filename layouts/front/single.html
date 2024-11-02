@@ -1,0 +1,100 @@
+{{ define "main" }}
+<div class="row justify-content-center">
+	<div class="col-md-auto col-lg-auto col-xl-auto">
+
+    <div class="blog-header" id="front-header">
+			<img src="bc-infosec-logo.svg" class="logo">
+			<div class="text">
+				<h1 class="typing"> {{ .Title }} </h1>
+				<p class="lead"> {{ .Params.lead | safeHTML }} </p>
+			</div>
+		</div>
+
+
+		<div id="main">
+			<section class="tiles">
+				<article class="style1">
+					<span class="image">
+					<img src="images/pic.jpg" alt="">
+					</span>
+					<a href="#">
+						<h2>We Defend</h2>
+						<div class="content">
+							<ul style="text-align: left;" class="list-content">
+								<li>Our knowledge empowers us to shield against evolving digital threats.</li>
+								<li>We explore the latest in defensive tactics to stay ahead of cyber adversaries.</li>
+								<li>By understanding risk, we prepare to secure systems and protect data.</li>
+							</ul>
+						</div>
+					</a>
+				</article>
+				<article class="style2">
+					<span class="image">
+					<img src="images/pic.jpg" alt="">
+					</span>
+					<a href="#">
+						<h2>We Innovate</h2>
+						<div class="content">
+							<ul style="text-align: left;" class="list-content">
+								<li>Experimenting with emerging technologies to solve real-world cybersecurity issues.</li>
+								<li>Developing unique approaches to safeguard personal and organizational security.</li>
+								<li>Engineering custom tools and strategies to handle tomorrow’s digital challenges.</li>
+							</ul>
+						</div>
+					</a>
+				</article>
+				<article class="style3">
+					<span class="image">
+					<img src="images/pic.jpg" alt="">
+					</span>
+					<a href="#">
+						<h2>We Empower</h2>
+						<div class="content">
+							<ul style="text-align: left;" class="list-content">
+								<li>Building a community of resilient, informed digital citizens.</li>
+								<li>Inspiring others to value privacy, ethics, and responsibility online.</li>
+                <li>Providing resources and hands-on experience to prepare for impactful careers.</li>
+							</ul>
+						</div>
+					</a>
+				</article>
+        <article class="style4">
+					<span class="image">
+					<img src="images/pic.jpg" alt="">
+					</span>
+					<a href="#">
+						<h2>We Lead</h2>
+						<div class="content">
+							<ul style="text-align: left;" class="list-content">
+								<li>Organizing workshops to cultivate hands-on experience with security tools.</li>
+								<li>Offering insights into industry trends and pathways to careers in cybersecurity.</li>
+                <li>Collaborating with experts and alumni to create opportunities for growth and networking.</li>
+							</ul>
+						</div>
+					</a>
+				</article>
+			</section>
+			<br />
+			<hr />
+
+      <div>
+				{{ .Content }}
+			</div>
+
+			<br /><hr />
+			<h2>Recent Posts</h2>
+			<div class="card-list">
+				{{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog" ) -}}
+					<div class="card">
+						<div class="card-body">
+							<h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+							<p>{{ .Params.description | safeHTML }}</p>
+							{{ partial "main/blog-meta.html" . -}}
+						</div>
+					</div>
+				{{ end -}}
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}

@@ -16,5 +16,12 @@
       <guid>http://localhost:1313/docs/about-us/about-infosec-club/</guid>
       <description>TODO: Write about what InfoSec Club is and what it&amp;rsquo;s about!&#xA;Welcome to Bellevue College&amp;rsquo;s InfoSec Club! Our mission is to empower students to develop skills in cybersecurity through hands-on learning, collaboration, and community engagement.</description>
     </item>
+    <item>
+      <title>InfoSec Leadership &amp; Advisors</title>
+      <link>http://localhost:1313/docs/about-us/infosec-leadership-advisors/</link>
+      <pubDate>Thu, 07 Sep 2023 16:12:03 +0200</pubDate>
+      <guid>http://localhost:1313/docs/about-us/infosec-leadership-advisors/</guid>
+      <description>TODO: create a list of people involved in club leadership. Include advisors as well!&#xA;Leadership Previous Leadership Advisors </description>
+    </item>
   </channel>
 </rss>

@@ -13,3 +13,28 @@
       border-image-slice: 1;
   }
 }
+
+#front-header {
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 4.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+// $logo-outline-color: #22365e;
+
+.logo {
+  margin-right: 2rem;
+  // filter: drop-shadow(4px 0 0 $logo-outline-color) drop-shadow(0 4px 0 $logo-outline-color) drop-shadow(-4px 0 0 $logo-outline-color) drop-shadow(0 -4px 0 $logo-outline-color);
+  width: 20%;
+  height: auto;
+}
+
+.list-content {
+  font-size: small
+}
+
+@import "_about";
+
