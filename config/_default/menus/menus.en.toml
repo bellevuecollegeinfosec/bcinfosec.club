@@ -1,11 +1,16 @@
 [[main]]
   name = "About"
-  url = "/docs/about-us/about-infosec-club/"
-  weight = 20
+  url = "/about/about-us/about-infosec-club/"
+  weight = 10
 
 [[main]]
   name = "Blog"
   url = "/blog/"
+  weight = 20
+
+[[main]]
+  name = "Quick Links"
+  url = "/quick-links/"
   weight = 30
 
 [[social]]
@@ -27,19 +32,19 @@
   url = "https://www.bellevuecollege.edu/organizations/list/infosec-club/"
   weight = 30
 
-# [[sidebar_docs]]
+# [[sidebar_about]]
 #   name = "About Us"
 #   pageRef = "/about/about-us"
 #   weight = 10
 
-# [[sidebar_docs]]
-#   name = "How to Join"
-#   pageRef = "/about/how-to-join"
+# [[sidebar_about]]
+#   name = "InfoSec Club"
+#   pageRef = "/about/about-us/about-infosec-club"
 #   weight = 20
 
-# [[sidebar_docs]]
-#   name = "People"
-#   pageRef = "/about/people"
+# [[sidebar_about]]
+#   name = "Leadership and Advisors"
+#   pageRef = "/about/about-us/infosec-leadership-and-advisors"
 #   weight = 30
 
 [[footer]]

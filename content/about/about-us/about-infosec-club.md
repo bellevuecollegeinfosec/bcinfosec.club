@@ -7,6 +7,7 @@ lastmod: 2023-09-07T16:12:03+02:00
 draft: false
 weight: 610
 toc: true
+showEditLink: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -61,4 +62,3 @@ InfoSec club has two DELL R620 servers running on PROXMOX (A hypervisor OS), off
 ## Juice Shop @ [juice.bcinfosec.club](https://juice.bcinfosec.club)
 
 {{< picture src="images/juice-shop-homepage.png" alt="A picture showing the homepage of InfoSec Club's instance of Juice Shop, a vulnerable webpage, designed to teach." >}}
-
