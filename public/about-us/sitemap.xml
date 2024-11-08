@@ -2,9 +2,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/about-us/people/</loc>
-      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+      <loc>http://localhost:1313/about-us/lorem/</loc>
+      <lastmod>2024-11-06T12:30:11-08:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    </urlset>
+    <url>
+        <loc>http://localhost:1313/about-us/lorem/ipsum/</loc>
+        <lastmod>2024-11-06T12:30:11-08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      </urlset>

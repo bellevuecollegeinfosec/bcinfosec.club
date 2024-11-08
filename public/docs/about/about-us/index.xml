@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Us on BC InfoSec Club</title>
+    <title>About Us on BC InfoSec</title>
     <link>http://localhost:1313/docs/about/about-us/</link>
-    <description>Recent content in About Us on BC InfoSec Club</description>
+    <description>Recent content in About Us on BC InfoSec</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
@@ -14,7 +14,14 @@
       <link>http://localhost:1313/docs/about/about-us/about-infosec-club/</link>
       <pubDate>Thu, 07 Sep 2023 16:12:03 +0200</pubDate>
       <guid>http://localhost:1313/docs/about/about-us/about-infosec-club/</guid>
-      <description>TODO: Write about what InfoSec Club is and what it&amp;rsquo;s about!&#xA;Welcome to Bellevue College&amp;rsquo;s InfoSec Club! Our mission is to empower students to develop skills in cybersecurity through hands-on learning, collaboration, and community engagement.</description>
+      <description>&lt;p&gt;TODO: Write about what InfoSec Club is and what it&amp;rsquo;s about!&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome-to-bellevue-colleges-infosec-club&#34;&gt;Welcome to Bellevue College&amp;rsquo;s InfoSec Club!&lt;/h2&gt;&#xA;&lt;p&gt;Our mission is to empower students to develop skills in cybersecurity through hands-on learning, collaboration, and community engagement. Whether you&amp;rsquo;re new to cybersecurity or an experienced professional, our club offers opportunities for everyone to grow, learn, and share knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>InfoSec Leadership &amp; Advisors</title>
+      <link>http://localhost:1313/docs/about/about-us/infosec-leadership-advisors/</link>
+      <pubDate>Thu, 07 Sep 2023 16:12:03 +0200</pubDate>
+      <guid>http://localhost:1313/docs/about/about-us/infosec-leadership-advisors/</guid>
+      <description>&lt;p&gt;TODO: create a list of people involved in club leadership. Include advisors as well!&lt;/p&gt;&#xA;&lt;h2 id=&#34;leadership&#34;&gt;Leadership&lt;/h2&gt;&#xA;&lt;h2 id=&#34;previous-leadership&#34;&gt;Previous Leadership&lt;/h2&gt;&#xA;&lt;h2 id=&#34;advisors&#34;&gt;Advisors&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

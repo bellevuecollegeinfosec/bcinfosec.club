@@ -1,6 +1,6 @@
 [[main]]
-  name = "About"
-  url = "/about/about-us/about-infosec-club/"
+  name = "Info"
+  url = "/info/about-us/about-infosec-club/"
   weight = 10
 
 [[main]]

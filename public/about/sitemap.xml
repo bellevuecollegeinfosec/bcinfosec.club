@@ -2,32 +2,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/about/about-us/</loc>
-      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>http://localhost:1313/about/other/</loc>
-      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+      <loc>http://localhost:1313/about/lorem/</loc>
+      <lastmod>2024-11-06T12:28:54-08:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/about/about-us/about-infosec-club/</loc>
-        <lastmod>2023-09-07T16:12:03+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/about/about-us/infosec-leadership-and-advisors/</loc>
-        <lastmod>2023-09-07T16:12:03+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/about/other/privacy-policy/</loc>
+        <loc>http://localhost:1313/about/lorem/ipsum/</loc>
+        <lastmod>2024-11-06T12:28:54-08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>

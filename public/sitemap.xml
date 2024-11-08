@@ -12,28 +12,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/about-us/</loc>
+    <loc>http://localhost:1313/info/about-us/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/other/</loc>
+    <loc>http://localhost:1313/info/other/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/about-us/about-infosec-club/</loc>
+    <loc>http://localhost:1313/info/about-us/about-infosec-club/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/about-us/infosec-leadership-and-advisors/</loc>
+    <loc>http://localhost:1313/info/about-us/infosec-leadership-and-advisors/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-11-05T17:53:36-08:00</lastmod>
+    <loc>http://localhost:1313/info/</loc>
+    <lastmod>2024-11-06T12:55:56-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -50,7 +50,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/other/privacy-policy/</loc>
+    <loc>http://localhost:1313/info/other/privacy-policy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
