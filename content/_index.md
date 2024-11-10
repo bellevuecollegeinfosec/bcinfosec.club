@@ -4,8 +4,8 @@ description: ""
 lead: "Interested in hacking, cybersecurity, and digital defense? You're in the right place!"
 layout: single
 type: front
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
+date: 2024-11-10T00:18:36+00:00
+lastmod: 2024-11-10T00:18:36+00:00
 draft: false
 seo:
   title: "" # custom title (optional)
@@ -14,7 +14,7 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-**Bellevue College InfoSec Club**, short for Information Security, is a club at Bellevue College which allows students to explore the exiciting field of cybersecurity in a welcoming environment! We cover ...
+**Bellevue College InfoSec Club**, short for Information Security, is a club at Bellevue College which allows students to explore the exiciting field of cybersecurity in a welcoming environment!
 
 ## ✨ Who can join?
 

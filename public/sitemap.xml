@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/example-post/</loc>
-    <lastmod>2023-09-07T16:27:22+02:00</lastmod>
+    <loc>http://localhost:1313/blog/infosec-club-guest-speaker/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -13,17 +13,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/info/about-us/</loc>
-    <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/info/other/</loc>
-    <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/info/about-us/about-infosec-club/</loc>
-    <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/info/about-us/about-infosec-resources/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -32,21 +37,57 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/blue-teaming/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/contributors/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/event/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/guest-speaker/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/honeywell/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/contributors/liam-dale/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/info/</loc>
     <lastmod>2024-11-06T12:55:56-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-07T16:33:54+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/contributors/</loc>
+    <loc>http://localhost:1313/info/other/acceptable-use-policy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -55,10 +96,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/quick-links/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

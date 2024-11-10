@@ -3,26 +3,37 @@
   
     <url>
       <loc>http://localhost:1313/info/about-us/</loc>
-      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+      <lastmod>2024-11-10T00:18:36+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
       <loc>http://localhost:1313/info/other/</loc>
-      <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+      <lastmod>2024-11-10T00:18:36+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
         <loc>http://localhost:1313/info/about-us/about-infosec-club/</loc>
-        <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+        <lastmod>2024-11-10T00:18:36+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://localhost:1313/info/about-us/about-infosec-resources/</loc>
+        <lastmod>2024-11-10T00:18:36+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://localhost:1313/info/about-us/infosec-leadership-and-advisors/</loc>
         <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://localhost:1313/info/other/acceptable-use-policy/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>

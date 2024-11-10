@@ -10,11 +10,18 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/info/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Acceptable Use Policy</title>
+      <link>http://localhost:1313/info/other/acceptable-use-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/other/acceptable-use-policy/</guid>
+      <description>Acceptable Use Policy (APU) for Bellevue College Information Security Club PROXMOX VM Acceptable Use Introduction&#xA;This Acceptable Use Policy (&amp;ldquo;APU&amp;rdquo;) is a legal agreement between you (&amp;ldquo;BC InfoSec Club Member&amp;rdquo;) and the InfoSec Club at Bellevue College (&amp;ldquo;BC InfoSec Club&amp;rdquo;) regarding your use of the PROXMOX virtual machine servers (&amp;ldquo;Resources&amp;rdquo;) provided by the BC InfoSec Club.</description>
+    </item>
+    <item>
       <title>Privacy Policy</title>
       <link>http://localhost:1313/info/other/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/info/other/privacy-policy/</guid>
-      <description>&lt;p&gt;npm&lt;/p&gt;</description>
+      <description>InfoSec Club Privacy Policy Effective Date: 11/09/2024&#xA;This Privacy Policy outlines how the Cybersecurity Club at [College Name] (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;our,&amp;rdquo; or &amp;ldquo;the Club&amp;rdquo;) collects, uses, stores, and protects your personal information.</description>
     </item>
   </channel>
 </rss>
