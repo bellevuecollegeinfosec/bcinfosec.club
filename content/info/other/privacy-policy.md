@@ -6,7 +6,8 @@ toc: false
 
 Effective Date: 11/09/2024
 
-This Privacy Policy outlines how the Cybersecurity Club at [College Name] ("we," "our," or "the Club") collects, uses, stores, and protects your personal information. By joining the Club and using our services, you agree to the terms of this Privacy Policy.
+This Privacy Policy outlines how the InfoSec Club at Bellevue College ("we," "our," or "the Club") collects, uses, stores, and protects your personal information. By joining the Club and using our services, you agree to the terms of this Privacy Policy.
+
 ## 1. Information We Collect
 
 We collect the following information from our members:
@@ -48,7 +49,7 @@ You have the right to:
 - Request deletion of your information.
 - Withdraw your consent for data collection (note: withdrawing consent may affect your ability to access certain club resources).
 
-To exercise these rights, please contact us at: infosec@bellevuecollege.edu
+To exercise these rights, please contact us at: `infosec@bellevuecollege.edu`
 
 ## 7. Changes to This Policy
 
@@ -56,4 +57,4 @@ We may update this Privacy Policy periodically. Any changes will be posted on ou
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at infosec@bellevuecollege.edu.
+If you have any questions or concerns about this Privacy Policy, please contact us at `infosec@bellevuecollege.edu`.

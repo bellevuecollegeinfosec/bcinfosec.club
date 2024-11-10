@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/3e3779e0ac1dc4240fa72063485d7c069e1acd9ba03bdb76d8d6ef5541e986ca",
+	"sourceRoot": "/home/ldale/Downloads/infosec club website/bcinfosec.club",
 	"sources": [
 		"node_modules/@thulite/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
