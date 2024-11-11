@@ -16,11 +16,15 @@ seo:
 
 ### Kali Linux Attackboxes
 
-*[Insert Image Here of Connection to Desktop via Browser]*
-
 InfoSec Club is able to provide members with their own VM running Kali Linux. Connect remotely from anywhere using your Bellevue College email and attack over a dozen different vulnerable machines!
 
 Remote into the desktop or connect via SSH!
+
+{{< picture src="images/ssh-kali-linux-example.png" alt="A picture showing connecting to Kali Linux Attackbox" >}}
+
+<br>
+
+*[Insert Image Here of Connection to Desktop via Browser]*
 
 ### BCCTF @ [ctf.bcinfosec.club](https://ctf.bcinfosec.club)
 
