@@ -28,7 +28,7 @@
 
 [[social]]
   name = "Bellevue College Student Engagement"
-  pre = '<img src="/SVG/bellevue-college-logo.svg" alt="Bellevue College Logo" width="24" height="24">'
+  pre = '<img src="svgs/bellevue-college-logo.svg" alt="Bellevue College Logo" width="24" height="24">'
   url = "https://www.bellevuecollege.edu/organizations/list/infosec-club/"
   weight = 30
 

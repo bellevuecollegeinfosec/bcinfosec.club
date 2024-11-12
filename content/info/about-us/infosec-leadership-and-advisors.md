@@ -23,7 +23,7 @@ seo:
   <div class="col-md-4">
    <div class="our-team">
     <div class="pic">
-     <img src="/images/people/liam.png">
+     <img src="images/people/liam.png">
     </div>
     <h3 class="title">Liam Dale</h3>
     <span class="role">President</span>
@@ -32,7 +32,7 @@ seo:
   <div class="col-md-4">
    <div class="our-team">
     <div class="pic">
-     <img src="/images/people/daniel.png">
+     <img src="images/people/daniel.png">
     </div>
     <h3 class="title">Daniel Brandao</h3>
     <span class="role">Vice President</span>
@@ -41,7 +41,7 @@ seo:
   <div class="col-md-4">
    <div class="our-team">
     <div class="pic">
-     <img src="/images/people/antonio.png">
+     <img src="images/people/antonio.png">
     </div>
     <h3 class="title">Antonio Ramos</h3>
     <span class="role">Treasurer</span>
@@ -50,7 +50,7 @@ seo:
   <div class="col-md-4">
    <div class="our-team">
     <div class="pic">
-     <img src="/images/people/cody.png">
+     <img src="images/people/cody.png">
     </div>
     <h3 class="title">Cody Lang</h3>
     <span class="role">Junior System Administrator</span>
