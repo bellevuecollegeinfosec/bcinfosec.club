@@ -4,8 +4,6 @@ toc: false
 ---
 # InfoSec Club Privacy Policy
 
-Effective Date: 11/09/2024
-
 This Privacy Policy outlines how the InfoSec Club at Bellevue College ("we," "our," or "the Club") collects, uses, stores, and protects your personal information. By joining the Club and using our services, you agree to the terms of this Privacy Policy.
 
 ## 1. Information We Collect
@@ -34,7 +32,7 @@ We take data protection seriously and implement the following measures:
 
 ## 4. Data Retention
 
-- We retain your personal information as long as you are an active member of the Club. If you leave the Club or request deletion, your information will be removed from our systems within [X] days.
+- We retain your personal information as long as you are an active member of the Club. If you leave the Club or request deletion, your information will be removed from our systems within **90 days**.
 
 ## 5. Data Sharing
 

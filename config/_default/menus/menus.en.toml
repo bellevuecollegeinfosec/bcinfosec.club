@@ -48,9 +48,14 @@
 #   weight = 30
 
 [[footer]]
-  name = "Privacy Policy"
-  url = "/privacy/"
+  name = "🔒 Privacy Policy"
+  url = "/info/other/privacy-policy/"
   weight = 10
+
+[[footer]]
+  name = "📜 Acceptable Use Policy"
+  url = "/info/other/acceptable-use-policy/"
+  weight = 20
 
 # [[footer]]
 #   name = "Terms of Service"

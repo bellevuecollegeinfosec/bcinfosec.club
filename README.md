@@ -8,10 +8,10 @@ Welcome to the repository for [Bellevue College InfoSec Club](https://bcinfosec.
 - [x] ~~Write up About Page for Internal Resources.~~
 - [x] ~~Write up How to Get Access to Internal Resources.~~
 - [x] ~~Complete styling and write up for InfoSec Leadership & Advisors.~~
-- [ ] Write up How to Join InfoSec Club.
+- [x] ~~Write up How to Join InfoSec Club.~~
 - [x] ~~Complete styling for Homepage, including adding logo and modifying layout.~~
 - [x] ~~Add Bellevue College Student Enagement Website link.~~
-- [ ] Write up intro blog post.
+- [x] ~~Write up intro blog post.~~
 
 ## ⚙ Features
 
