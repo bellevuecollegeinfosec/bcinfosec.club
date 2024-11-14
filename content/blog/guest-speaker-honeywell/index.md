@@ -18,7 +18,7 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-### 🚩 Exploring Blue Teaming with Industry Insights: A Special Talk by Honeywell’s Brock Berube
+### 🛡 Exploring Blue Teaming with Industry Insights: A Special Talk by Honeywell’s Brock Berube
 
 We’re excited to welcome **Brock Berube, a seasoned Cyber Security Analyst from Honeywell**, as our guest speaker for an engaging and insightful discussion on Blue Teaming in the world of cybersecurity. This is a fantastic opportunity for anyone interested in understanding the practical side of defending against cyber threats.
 
@@ -34,10 +34,12 @@ Topics to Be Covered
 ### ❓ Who Should Attend?
 
 Whether you’re new to cybersecurity or a seasoned student exploring a career in this field, this talk has something for everyone. Brock’s experience spans both educational scenarios and hands-on industry practice, offering valuable insights for beginners and advanced learners alike. If you’re looking to gain a deeper understanding of the practical challenges of cyber defense, this is a session you won’t want to miss.
-About the Speaker
+
+### 🗣 About the Speaker
 
 Brock Berube brings years of experience as a Cyber Security Analyst at Honeywell, where he has worked on the front lines of threat detection and incident response. His expertise in building and managing defense strategies has equipped him with a wealth of knowledge about the realities of blue teaming. Brock’s unique perspective bridges the gap between academic learning and industry expectations, making him an ideal speaker for anyone looking to enhance their practical skills in cybersecurity.
-Event Details
+
+### 🗓 Event Details
 
 📅 Date: **November 21st, 2024** <br>
 🕒 Time: **12pm - 2pm** <br>

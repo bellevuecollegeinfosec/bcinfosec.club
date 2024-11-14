@@ -24,7 +24,7 @@ Remote into the desktop or connect via SSH!
 
 ### 🏆 BCCTF @ [ctf.bcinfosec.club](https://ctf.bcinfosec.club)
 
-BCCTF - Bellevue College Capture the Flag is a constantly running set of challenges hosted by the InfoSec Club, complete some more traditional jeporady style CTFs in preperation for InfoSec club's future participation in CTFs all around the world.
+BCCTF - Bellevue College Capture the Flag is a constantly running set of challenges hosted by the InfoSec Club, complete some more traditional jeporady style CTFs in preparation for InfoSec club's future participation in CTFs all around the world.
 
 {{< picture src="images/bcctf-homepage.png" alt="A picture showing the homepage of InfoSec Club's BCCTF" >}}
 

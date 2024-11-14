@@ -212,7 +212,9 @@
       "wrap"
     ],
     "ids": [
+      "-about-the-speaker",
       "-bcctf--ctfbcinfosecclubhttpsctfbcinfosecclub",
+      "-event-details",
       "-exploring-blue-teaming-with-industry-insights-a-special-talk-by-honeywells-brock-berube",
       "-infosec-club-wiki--wikibcinfosecclubhttpswikibcinfosecclub",
       "-interested-in-joining-infosec",
@@ -235,7 +237,7 @@
       "7-changes-to-this-policy",
       "8-contact-us",
       "TableOfContents",
-      "acceptable-use-policy-apu-for-bellevue-college-information-security-club-proxmox-vm-acceptable-use",
+      "acceptable-use-policy-aup-for-bellevue-college-information-security-club",
       "advisors",
       "buttonColorMode",
       "by-completing-this-formhttpsformsofficecomrk3kehma44n-you-acknowledge-that-you-have-read-understood-and-agree-to-be-bound-by-the-terms-and-conditions-of-this-aup",
