@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-toc: false
+toc: true
 ---
 # InfoSec Club Privacy Policy
 
