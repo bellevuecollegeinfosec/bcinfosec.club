@@ -2,7 +2,6 @@
 title: "Acceptable Use Policy"
 toc: true
 ---
-## Acceptable Use Policy (AUP) for Bellevue College Information Security Club
 
 ### 1. **Introduction**
 

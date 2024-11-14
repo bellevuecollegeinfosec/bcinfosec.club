@@ -2,7 +2,6 @@
 title: "Privacy Policy"
 toc: true
 ---
-# InfoSec Club Privacy Policy
 
 This Privacy Policy outlines how the InfoSec Club at Bellevue College ("we," "our," or "the Club") collects, uses, stores, and protects your personal information. By joining the Club and using our services, you agree to the terms of this Privacy Policy.
 
