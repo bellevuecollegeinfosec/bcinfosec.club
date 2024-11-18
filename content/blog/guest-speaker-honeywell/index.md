@@ -39,6 +39,8 @@ Whether you’re new to cybersecurity or a seasoned student exploring a career i
 
 Brock Berube brings years of experience as a Cyber Security Analyst at Honeywell, where he has worked on the front lines of threat detection and incident response. His expertise in building and managing defense strategies has equipped him with a wealth of knowledge about the realities of blue teaming. Brock’s unique perspective bridges the gap between academic learning and industry expectations, making him an ideal speaker for anyone looking to enhance their practical skills in cybersecurity.
 
+{{< picture src="/images/Brock Berube Visit Poster.png" alt="Poster for Brock Berube visiting Bellevue College" >}}
+
 ### 🗓 Event Details
 
 📅 Date: **November 21st, 2024** <br>
