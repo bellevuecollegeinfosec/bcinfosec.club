@@ -34,5 +34,4 @@ Have any questions regarding the club? Send 'em over to: `infosec@bellevuecolleg
 
 | Title            | When?                   | Where?      |
 | -----------      | -----------             | ----------- |
-| Regular Meetings | Mondays @ 12pm - 1pm    | Room N208   |
-| Workshops        | Wednesdays @ 12pm - 2pm | Room T219   |
+| Regular Meetings | Mondays @ 12:30pm - 1:30pm    | Room N208   |
