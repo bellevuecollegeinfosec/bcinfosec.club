@@ -9,9 +9,14 @@
   weight = 20
 
 [[main]]
+  name = "Calendar"
+  url = "/calendar/"
+  weight = 30
+
+[[main]]
   name = "Quick Links"
   url = "/quick-links/"
-  weight = 30
+  weight = 40
 
 [[social]]
   name = "Discord"
