@@ -34,4 +34,4 @@ Have any questions regarding the club? Send 'em over to: `infosec@bellevuecolleg
 
 | Title            | When?                   | Where?      |
 | -----------      | -----------             | ----------- |
-| Regular Meetings | Mondays @ 12:30pm - 1:30pm    | Room T219   |
+| Regular Meetings | 1:30pm    | Room T219 & [Over Teams](https://teams.microsoft.com/l/meetup-join/19%3AKtzCiSyuZtCMpD737nI42msfN7pzGlZgowolOKrSgjA1%40thread.tacv2/1743694021175?context=%7B%22Tid%22%3A%22f94c251c-1347-422e-b3ea-8ac56befd6cb%22%2C%22Oid%22%3A%229e7dea6e-98fe-4b76-b4db-e0eca1c6a8fb%22%7D)   |

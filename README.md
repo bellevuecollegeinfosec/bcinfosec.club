@@ -2,17 +2,6 @@
 
 Welcome to the repository for [Bellevue College InfoSec Club](https://bcinfosec.club), built with the [Doks](https://getdoks.org/) framework.
 
-## ✅ TODO List!
-
-- [x] ~~Write up About Page.~~
-- [x] ~~Write up About Page for Internal Resources.~~
-- [x] ~~Write up How to Get Access to Internal Resources.~~
-- [x] ~~Complete styling and write up for InfoSec Leadership & Advisors.~~
-- [x] ~~Write up How to Join InfoSec Club.~~
-- [x] ~~Complete styling for Homepage, including adding logo and modifying layout.~~
-- [x] ~~Add Bellevue College Student Enagement Website link.~~
-- [x] ~~Write up intro blog post.~~
-
 ## ⚙ Features
 
 - **Doks Framework**: A fast, modern, and fully customizable framework for documentation websites.
