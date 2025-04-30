@@ -32,15 +32,6 @@ seo:
   <div class="col-md-4">
    <div class="our-team">
     <div class="pic">
-     <img src="/images/people/daniel.png">
-    </div>
-    <h3 class="title">Daniel Brandao</h3>
-    <span class="role">Vice President</span>
-   </div>
-  </div>
-  <div class="col-md-4">
-   <div class="our-team">
-    <div class="pic">
      <img src="/images/people/antonio.png">
     </div>
     <h3 class="title">Antonio Ramos</h3>
@@ -53,7 +44,25 @@ seo:
      <img src="/images/people/cody.png">
     </div>
     <h3 class="title">Cody Lang</h3>
-    <span class="role">Junior System Administrator</span>
+    <span class="role">Systems Administrator</span>
+   </div>
+  </div>
+  <div class="col-md-4">
+   <div class="our-team">
+    <div class="pic">
+     <img src="/images/people/vismay.png">
+    </div>
+    <h3 class="title">Vismay Patel</h3>
+    <span class="role">Officer</span>
+   </div>
+  </div>
+  <div class="col-md-4">
+   <div class="our-team">
+    <div class="pic">
+     <img src="/images/people/ben.png">
+    </div>
+    <h3 class="title">Ben Klimala</h3>
+    <span class="role">Officer</span>
    </div>
   </div>
   <!-- <div class="col-md-4">
@@ -123,4 +132,14 @@ seo:
     <span class="role">Former President</span>
    </div>
   </div>
+  <div class="col-md-4">
+    <div class="our-team">
+    <div class="pic">
+      <img src="/images/people/daniel.png">
+    </div>
+    <h3 class="title">Daniel Brandao</h3>
+    <span class="role">Former Vice President</span>
+    </div>
+  </div>
+ </div>
 </div>
