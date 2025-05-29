@@ -70,7 +70,7 @@ seo:
     <div class="pic">
      <img src="/images/people/jonah.png">
     </div>
-    <h3 class="title">Jonah</h3>
+    <h3 class="title">Jonah Niemann</h3>
     <span class="role">Officer</span>
    </div>
   </div>
