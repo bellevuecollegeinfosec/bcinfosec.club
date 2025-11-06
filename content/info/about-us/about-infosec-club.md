@@ -43,4 +43,4 @@ We’re proud to offer exclusive access to club-managed resources that help memb
 
 - **Proxmox Servers:** Our two DELL R620 servers, nicknamed "FitzRoy" and "Taranaki," run on Proxmox and host a variety of virtual environments. Members can use these servers to practice CTF challenges, set up Docker sandboxes, or explore vulnerable machines in a safe, controlled setting. A full list of the services our club provides is right here: [Learn more about our resources!]({{< relref "/info/about-us/about-infosec-resources/" >}})
 
-{{< picture src="images/infosec-internal-resource-picture.jpg" alt="Picture of a server rack, containing BC InfoSec Club's servers, FitzRoy and Taranaki" width="350" >}}
+![Picture of a server rack, containing BC InfoSec Club's servers, FitzRoy and Taranaki](images/infosec-internal-resource-picture.jpg)

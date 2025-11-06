@@ -18,7 +18,7 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-{{< picture src="images/PRCCDC_White.png" alt="PRCCDC Logo" width="200" >}}
+![PRCCDC Logo](images/PRCCDC_White.png)
 
 Ever wondered what it’s like to defend a network against live hackers in real time? Our cybersecurity club just got back from PRCCDC 2025, one of the most intense and exciting cybersecurity competitions we've ever attended—and we want to tell you all about it.
 
@@ -66,17 +66,17 @@ From 9am to 6pm, we logged into our network, patched vulnerabilities, changed pa
 
 We captained such robust machines as Hannah Montana OS:
 
-{{< picture src="images/hannahmontana.png" alt="Hannah Montana Linux desktop." width="200" >}}
+![Hannah Montana Linux desktop.](images/hannahmontana.png)
 
 And a RedStar OS instance, a linux distro hailing from North Korea of all places:
 
-{{< picture src="images/redstar.png" alt="RedStar OS interface, our North Korean workstation." width="200" >}}
+![RedStar OS interface, our North Korean workstation.](images/redstar.png)
 
 > Periodically throughout the day we were tasked with answering phone calls from a variety of different characters. Some trying to order pizza, others trying to register bug bounties, and of course the IRS. 🙄
 
 We also got familiarized with a fellow employee, one Mr. Macnibbles.
 
-{{< picture src="images/macnibbles.png" alt="The one the only, MacNibbles. Chatting with us in discord." width="200" >}}
+![The one the only, MacNibbles. Chatting with us in discord.](images/macnibbles.png)
 
 We stayed near the top of the leaderboard for most of the day—then Icarus’d hard, soaring early and crashing even harder by mid-day.
 
@@ -98,7 +98,7 @@ We prepared a presentation for the higher-ups, touting our network security poli
 
 Our team slowly lost sanity as one of our team members drew increasingly detailed images of a raccoon, eventually ending up with masterpiece that is Thaddius:
 
-{{< picture src="images/thaddius.png" alt="The complete version of Thaddius in the flesh." width="200" >}}
+![The complete version of Thaddius in the flesh.](images/thaddius.png)
 
 > When all was said and done the up-time leaderboard resembled that of a bloodbath, no teams made it out of day 2 unscathed.
 
@@ -106,9 +106,9 @@ Our team slowly lost sanity as one of our team members drew increasingly detaile
 
 Day three ended off the competition with a recap of the event. We learned in greater details the layout of our network, got appreciation for our team's artistry and gained the perspectives of the Black Team (Infrastructure and Organizers), Orange Team (Scammers, Legitimate Customers and Macnibbles), Red Team (Attackers). Closing out the day with the final leaderboard and top 3 teams of the competition.
 
-{{< picture src="images/netlayout.jpg" alt="Slide showing the layout of our network." width="200" >}}
+![Slide showing the layout of our network.](images/netlayout.jpg)
 
-{{< picture src="images/our-teams-artwork.jpg" alt="Picture of our raccoon artwork on the black team's slides." width="200" height="100" >}}
+![Picture of our raccoon artwork on the black team's slides.](images/our-teams-artwork.jpg)
 
 ## 🙌 Why You Should Join InfoSec Club
 
@@ -126,6 +126,6 @@ Day three ended off the competition with a recap of the event. We learned in gre
 
 Huge shoutout to Rod Pascaul for helping us coordinate this event, the PRCCDC organizers which created such a fun environment for us to compete in, and for those in the club who got to participate this year! Can't wait to join next year's PRCCDC with y'all!
 
-{{< picture src="images/group-pic-prccdc2025pic1.jpg" alt="Picture of our PRCCDC InfoSec Club Team." width="200" >}}
+![Picture of our PRCCDC InfoSec Club Team.](images/group-pic-prccdc2025pic1.jpg)
 
-{{< picture src="images/group-pic-prccdc2025pic2.jpg" alt="Picture of our PRCCDC InfoSec Club Team." width="200" >}}
+![Picture of our PRCCDC InfoSec Club Team.](images/group-pic-prccdc2025pic2.jpg)

@@ -20,22 +20,22 @@ InfoSec Club is able to provide members with their own VM running Kali Linux. Co
 
 Remote into the desktop or connect via SSH!
 
-{{< picture src="images/ssh-kali-linux-example.png" alt="A picture showing connecting to Kali Linux Attackbox" >}}
+![A picture showing connecting to Kali Linux Attackbox](images/ssh-kali-linux-example.png)
 
 ### 🏆 BCCTF @ [ctf.bcinfosec.club](https://ctf.bcinfosec.club)
 
 BCCTF - Bellevue College Capture the Flag is a constantly running set of challenges hosted by the InfoSec Club, complete some more traditional jeporady style CTFs in preparation for InfoSec club's future participation in CTFs all around the world.
 
-{{< picture src="images/bcctf-homepage.png" alt="A picture showing the homepage of InfoSec Club's BCCTF" >}}
+![A picture showing the homepage of InfoSec Club's BCCTF](images/bcctf-homepage.png)
 
 ### 🧩 Juice Shop @ [juice.bcinfosec.club](https://juice.bcinfosec.club)
 
 InfoSec has our own installation of Juice Shop running. This is a popular vulnerable webserver, learn about XSS, SQL, Javascript and a whole host of website-based attacks though this website!
 
-{{< picture src="images/juice-shop-homepage.png" alt="A picture showing the homepage of InfoSec Club's instance of Juice Shop, a vulnerable webpage, designed to teach." >}}
+![A picture showing the homepage of InfoSec Club's instance of Juice Shop, a vulnerable webpage, designed to teach.](images/juice-shop-homepage.png)
 
 ### 📚 InfoSec Club Wiki @ [wiki.bcinfosec.club](https://wiki.bcinfosec.club)
 
 InfoSec Club hosts our own MediaWiki server, we host detailed articles on how to use our resources, as well as, pentesting tools, general linux knowledge and a whole host of other useful subjects. This website is openly editiable by club members!
 
-{{< picture src="images/infosec-wiki.png" alt="A picture showing the homepage of InfoSec Club's MediaWiki instance, allowing club members to add to a wealth of resources in standard wiki format!" >}}
+![A picture showing the homepage of InfoSec Club's MediaWiki instance, allowing club members to add to a wealth of resources in standard wiki format!](images/infosec-wiki.png)
